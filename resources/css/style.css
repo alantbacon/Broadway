@@ -42,7 +42,7 @@ img {
   background-image: url(../images/the-flatiron-building.png);
 }
 
-.footer p, a {
+.footer p,.footer a {
   text-align: left;
   font-size: 11px;
   color: white;
